@@ -1,2 +1,2 @@
 # tugaswebcam
-silahkan dipelajari
+Java desktop initialize webcam
